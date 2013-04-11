@@ -1,0 +1,560 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"tempW",
+				"tempWidgetDescription"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inte",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syn powe",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"set syn power",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"ok",
+				"Bookmarks: Select Next"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"Project",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"set syn poe",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"Gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"set syn xm",
+				"Set Syntax: XML"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"command",
+				"Set Syntax: Sublime Text Commands"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"set ",
+				"Set Syntax: XML"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"syntax power",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"SYn",
+				"Set Syntax: XML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 148.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1365450799/kapsi/home/users/pbe/sites/pbe.kapsi.fi/www/css/tc.css",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1365450766/kapsi/home/users/pbe/sites/pbe.kapsi.fi/www/index.html",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1365457222/kapsi/home/users/pbe/sites/pbe.kapsi.fi/www/emeraldpurchased.html",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1365456824/kapsi/home/users/pbe/sites/pbe.kapsi.fi/www/cancel.html",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1365457028/kapsi/home/users/pbe/sites/pbe.kapsi.fi/www/diamondpurchased.html",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/kapsi",
+		"/Users/pasibergman/Dropbox/Applications/SublimeText2Settings/Packages/User/sftp_servers/kapsi",
+		"/Users/pasibergman/Downloads/angularArticle/index.html",
+		"/Users/pasibergman/Downloads/angularArticle/main.js",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/pasibergman/Downloads/angularArticle/angular.js",
+		"/Volumes/Git 1.8.1.2 Snow Leopard Intel Universal/setup git PATH for non-terminal programs.sh",
+		"/Users/pasibergman/Dropbox/Vöök/ProjectPortfolioINSTALLATION.ps1",
+		"/Users/pasibergman/Downloads/Windows 8 Enterprise x64 English MSDN.txt",
+		"/Users/pasibergman/Dropbox/Lukemista/VALTAKIRJA.txt",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1350747772/tupetsucraft/home/tuomas/MC/plugins/Essentials/messages_fi.properties",
+		"/Users/pasibergman/Dropbox/Applications/SublimeText2Settings/Packages/User/sftp_servers/tupetsucraft",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/tupexucraft",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1350747237/tupexucraft/home/tuomas/MC/plugins/Essentials/messages_fi.properties",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1350159303/tupexucraft/home/tuomas/TupexuCraft/logged_in_uniq.txt",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1350158712/tupexucraft/home/tuomas/TupexuCraft/logged_in.txt",
+		"/Users/pasibergman/Documents/testing.ps1",
+		"/Users/pasibergman/Documents/server.log",
+		"/Users/pasibergman/Dropbox/Applications/SublimeText2Settings/Packages/User/sftp_servers/tupexucraft",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/pasibergman/Documents/SublimeProjects/SampleProject/SampleProject/css/new.css",
+		"/Users/pasibergman/Documents/SublimeProjects/SampleProject/button.css",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1348520676/TupexuCraft/home/tuomas/TupexuCraft/plugins/LoginSecurity/data.yml",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1348515637/TupexuCraft/home/tuomas/TupexuCraft/plugins/LoginSecurity/data.yml",
+		"/Users/pasibergman/Dropbox/tupexucraft_poistetut_tunnukset.txt",
+		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1348308057/TupexuCraft/home/tuomas/TupexuCraft/plugins/LoginSecurity/data.yml",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/TupexuCraft",
+		"/Users/pasibergman/Desktop/TupexuCraft.sh",
+		"/Users/pasibergman/Documents/TupexuCraft/sftp-config.json",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/pbe.homeip.net",
+		"/Volumes/MyShare/Backup/DD-WRT_PKI_Keys/ca.crt",
+		"/Volumes/MyShare/Backup/DD-WRT_PKI_Keys/DD-WRT.crt",
+		"/Volumes/MyShare/Backup/DD-WRT_PKI_Keys/DD-WRT.key",
+		"/Volumes/MyShare/Backup/DD-WRT_PKI_Keys/dh1024.pem",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/pasibergman/GeekLets/CurrentArtist.scpt",
+		"/Users/pasibergman/GeekLets/org.tynsoe.GeekTool.plist",
+		"/C/Users/pbe/Documents/FIABB Transformers InspectionCardForWindingAssembly/TEST-FIABB.Transformers.InspectionCardForWindingAssembly.sql",
+		"/C/Users/pbe/Desktop/SYKEwarmUp.ps1",
+		"/C/Users/pbe/Documents/FIABB Transformers InspectionCardForWindingAssembly/FIABB.Transformers.InspectionCardForWindingAssembly.sql",
+		"/C/Users/pbe/Documents/FIABB Transformers InspectionCardForWindingAssembly (2)/TEST-FIABB.Transformers.InspectionCardForWindingAssembly.sql",
+		"/C/Users/pbe/Documents/FIABB Transformers InspectionCardForWindingAssembly/PROD-FIABB.Transformers.InspectionCardForWindingAssembly.sql",
+		"/C/Users/pbe/Documents/StageWFE1webConfigs/StageWFE1/web16010.config",
+		"/C/Users/pbe/Documents/StageWFE1webConfigs/StageWFE1/web16020.config",
+		"/C/Users/pbe/Documents/StageWFE1webConfigs/StageWFE1/web8010.config",
+		"/C/Users/pbe/Documents/StageWFE1webConfigs/StageWFE1/web8020.config",
+		"/C/Users/pbe/Desktop/BlockedFileTypeFiles_VAASA_STAGE.csv",
+		"/C/Users/pbe/Documents/WindowsPowerShell/profile.ps1",
+		"/C/Users/pbe/Desktop/SyncSiteUser.ps1",
+		"/C/Users/pbe/Desktop/GetDataFromOriginalAlerts.ps1",
+		"/C/vmShare/BlockedExtension_20120427/BlockedExtensionFilesReport_20120426_223601.csv",
+		"/C/Users/pbe/SkyDrive/PowerShell/WASP/Install.ps1",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/vmShare/ResolveAspNetCompatibilityIssuePROD.ps1",
+		"/C/vmShare/ChangeFieldValScript/ChangeFieldVal.ps1",
+		"/C/vmShare/ChangeFieldValScript/RenameDictionary.xml",
+		"/C/vmShare/ChangeFieldValScript/SeeInternalNames.ps1",
+		"/F/VirtualBox Development Env/Windows 2008 R2 DC/Utopia_ReadMe.txt",
+		"/F/VirtualBox Development Env/SharePoint 2010 with SQL Server 2012/Utopia_ReadMe.txt",
+		"/F/VirtualBox Development Env/SQL Server 2012 Core/Utopia_ReadMe.txt",
+		"/F/VirtualBox Development Env/SP2010 with SQL 2012 and VS11/Utopia_ReadMe.txt",
+		"/C/Users/pbe/Downloads/caps_lock_to_shift.reg",
+		"/C/VMs/SharePoint 2010 with SQL 2012/SharePoint 2010 with SQL 2012.vbox",
+		"/C/VMs/SharePoint 2010 with SQL 2012/SharePoint 2010 with SQL 2012.vbox-prev",
+		"/F/VirtualBoxVMs/SharePoint 2010 with SQL 2012 VM 50GB/Stage4_SP2010_SP1_Core/DEV02_ReadMe.txt",
+		"/F/VirtualBoxVMs/SharePoint 2010 with SQL 2012 VM 50GB/Stage1_Windows2008R2/ReadMe.txt",
+		"/C/vmShare/uls.ps1",
+		"/C/Users/pbe/Desktop/web.configWFE",
+		"/C/Users/pbe/Documents/BIG10_scripts_rev5475/BIG10_scripts_rev5475/RunConfigurationMain.ps1",
+		"/C/Users/pbe/Documents/BIG10_scripts_rev5475/BIG10_scripts_rev5475/MakeWebConfigChangesSTAGE.ps1",
+		"/C/Users/pbe/Desktop/EC_schema.xml",
+		"/C/Users/pbe/Desktop/engineering_changes_schema.xml",
+		"/C/vmShare/sts_dev.txt",
+		"/C/vmShare/web_dev_8010.config",
+		"/C/vmShare/web_stage_8010.config",
+		"/C/vmShare/web_dev_8010_uusi.config",
+		"/C/Users/pbe/Documents/StageFixReportingContentTypes/StageFixReportingContentTypes.ps1",
+		"/C/Users/pbe/Desktop/salespoint_dlls.ps1",
+		"/C/Users/pbe/Documents/transcript/transcript.txt",
+		"/C/Users/pbe/Documents/script_variables/stage variables.txt",
+		"//DOTNETNAS/dotnet/Training/Microsoft_sertifikaattitestimateriaalit/README_by_HiQ_2010_10_13.txt",
+		"/C/Users/pbe/Documents/script_variables/prod variables.txt",
+		"//viivi/c$/AUTOEXEC.BAT",
+		"/C/Users/pbe/Desktop/ps_font.ps1",
+		"/C/Users/pbe/Desktop/haa.ps1",
+		"/C/Users/pbe/Documents/vaasa_prod_migration/vaasa_prod_migration.txt",
+		"/C/Users/pbe/Desktop/OSA_failed_navigation_updates.csv",
+		"/C/Users/pbe/Documents/vaasa_prod_migration/SiteUsers_wa9010_20120324_094222.txt",
+		"/C/Users/pbe/Documents/vaasa_prod_migration/SiteUsers_wa9010_20120324_093309.txt",
+		"/C/Users/pbe/Documents/vaasa_prod_migration/SiteUsers_wa9010_20120324_092406.txt",
+		"/C/Users/pbe/Documents/day2 logs/day2 logs/day2_testrun_migrationscript2010_2.txt",
+		"/C/Users/pbe/Documents/day2 logs/day2 logs/day2_testrun_transcript.txt",
+		"/C/Users/pbe/Documents/day2 logs/day2 logs/migrationpart2log.txt",
+		"/C/00projects/Node.js/helloworld/WebRole1/server.js",
+		"/C/Users/pbe/Desktop/hoo.ps1",
+		"/C/vmShare/web_2012_03_22_14_00_56.config",
+		"/C/vmShare/web_2012_03_22_14_13_00.config",
+		"/C/vmShare/8010_old_sdp2_web.config",
+		"/C/vmShare/huu.txt",
+		"/C/vmShare/Notepad-Plus-Plus.tmTheme",
+		"/C/vmShare/8010_new_sdp2_web.config",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/PowershellUtils/setup.py",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/PowershellUtils/README.rst",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/C/Windows/System32/WindowsPowerShell/v1.0/profile.ps1",
+		"/E/SharePoint 2010 Devevelopment VM/SharePoint2010_README.txt",
+		"/c/huu.ps1",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/PowerShell/Snippets/(foreach) foreach( in ){}.sublime-snippet",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/PowerShell/Snippets/Add-SPShellAdmin.sublime-snippet",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/PowerShell/Snippets/Get-SPSite.sublime-snippet",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/PowerShell/Snippets/(if) if {...}.sublime-snippet",
+		"/C/Users/pbe/AppData/Roaming/Sublime Text 2/Packages/snipt/Snipt.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\vmShare\\Transformers",
+			"",
+			"C:\\program files (x86)\\",
+			"C:\\Users\\pbe\\AppData\\Roaming\\Sublime Text 2\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gray",
+			"10px",
+			"auto",
+			">\n",
+			"palvelinName",
+			"div",
+			"aDefaultSvc",
+			"hJukka",
+			"hTimo",
+			"aDefaultSvc",
+			"serverName",
+			"Give-RightsForDataRefresh",
+			"Limit-CurrentRightsForMemberGroup",
+			"Apply-PP-WebConfigMod",
+			"PPSSCredAccount",
+			"Install-PP-Solution",
+			"Modify-ExcelServicesSvcAppSettings",
+			"Create-SSS-TargetApp",
+			"Create-PP-SSS-TargetApp",
+			"GrantAccessToIdentity",
+			"ad",
+			"file",
+			"laamapoika",
+			"zetrox",
+			"tupetsu",
+			"w4w3",
+			"MAtikka",
+			"LolleroPollero",
+			"jormapoeka",
+			"2012-09-21 ",
+			" [INFO]",
+			"2012-09-21 ",
+			"\n",
+			"tamakota",
+			"tämä",
+			"Tämä",
+			"ei",
+			"tämä",
+			"ABB_AppraisalReportingTool",
+			"/AppraisalReportingTool",
+			":8020",
+			"gisws5",
+			"/service/ccc",
+			":8020",
+			"/ReportServer",
+			"/service/ccc",
+			"ABBJP_PortalInternalUrl",
+			"/service/ccc",
+			"/ReportServer",
+			"/ReportServer_",
+			"/ReportServer",
+			"/ReportServer_",
+			"ABBJP_PortalInternalUrl",
+			"/ReportServer",
+			"gisws5",
+			"Error",
+			"Exception",
+			".vdi",
+			"SharePoint 2012 with SQL 2012",
+			"SharePoint 2010 with SQL 2012.vdi",
+			"SharePoint.2012",
+			"SharePoint 2012",
+			"SharePoint 2010",
+			"Namespace=\"Digia.SharePoint.Abb.SalesPoint.Types\"",
+			"ECMCurrentPhase",
+			"HiQ",
+			"HIQ",
+			"ECMECPBasicInfoSubmittedOn",
+			"BasicInfoSubmittedOn",
+			"ECMECPApprovedOn",
+			"ECMECPChangePostponedOn",
+			"ECMECPBasicInfoSubmittedOn",
+			"mobilenumber",
+			"workphone",
+			"phone",
+			"mobile",
+			"phone",
+			"Mobile",
+			"Namespace=\"Digia.SharePoint.AdvancedLookup\"",
+			"Digia.SharePoint.Abb.SalesPoint.Types",
+			"Digia.SharePoint.Abb.SalesPoint",
+			"Digia.SharePoint.Abb.SalesPoint.Types",
+			"Digia",
+			"start",
+			"salespoint",
+			"Digia.SharePoint.Abb.SalesPoint.Application",
+			"ParseSalesPersonId",
+			"sdp",
+			"salespoint",
+			"RunConfigurationMain",
+			"alert",
+			"res",
+			"run_powershell",
+			"SDP",
+			"via",
+			"SAP",
+			"SWDESP94",
+			"sublime_cmd",
+			"alt+shift+p",
+			"shift+alt+p",
+			"shift",
+			"alt+shift+p",
+			"ctrl+shift+alt+p",
+			"appSettings",
+			"ReportViewerMessages",
+			"report"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"tamakota",
+			"SharePoint 2012 with SQL 2012.vdi",
+			"mobile"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 109.0
+	},
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}

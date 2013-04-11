@@ -1,0 +1,117 @@
+body {
+	font-family: Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+	color: #333;
+	margin: 20px 0px;
+	padding: 0px;
+	text-align: center;
+	background-color: #f9f9f9;
+}
+
+#container {
+	/*position: abosolute;*/
+	padding; 5px 5px 5px 5px;
+	width:890px;
+	height: auto;
+	min-height: 750px;
+	overflow: auto;
+	margin:0px auto;
+	text-align:left;
+	padding:20px;
+	border:1px solid #999;
+	background-color:#fff;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	box-shadow: 2px 2px 2px #999;
+}
+
+img {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+#info {
+	padding: 10px;
+}
+
+
+#content2 {
+	clear:left;
+	float:left;
+	width:100%;
+	overflow:hidden;
+}
+
+#content1 {
+	float:left;
+	width:100%;
+	position:relative;
+	right:50%;
+}
+
+#contentleft {
+	float:left;
+	width:47%;
+	position:relative;
+	left:50%;
+	overflow:hidden;
+	padding: 0px 8px 8px 8px;
+	border: 1px solid gray;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+
+}
+#contentright {
+	float:left;
+	width:47%;
+	position:relative;
+	left:52%;
+	overflow:hidden;
+	padding: 0px 8px 8px 8px;
+	border: 1px solid gray;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.form {
+	width: 150px ;
+	margin: 0 auto;
+}
+
+.greybox {
+	background-color: #ddd;
+	border: 1px solid #ddd;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	padding: 5px;
+}
+
+h1 {
+	font-size: 1.6em;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:link 		{color:#666;}
+a:visited	{color:#666;}
+a:hover     {text-decoration: underline;}
+
+#saannot {
+	float: left;
+}
+
+#footer {
+	float: left;
+	font-size: 12px;
+}
+
+ul {
+	margin-left: 0;
+	padding-left: 1.5em;
+}
+
+.ostoohje {
+	margin-bottom: 3px;
+	margin-top: 13px;
+}
