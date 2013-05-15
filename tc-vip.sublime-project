@@ -2,7 +2,8 @@
 	"folders":
 	[
 		{
-			"path": "/Users/pasibergman/Documents/NetProjects/TC-VIP"
+			"path": "/Users/pasibergman/Documents/NetProjects/TC-VIP",
+			"file_exclude_patterns": ["*.sublime-*", "*.md"]
 		}
 	]
 }

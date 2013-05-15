@@ -23,13 +23,36 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"fi\">\n<head>\n	<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n	<meta name=\"keywords\" content=\"\">\n	<meta name=\"description\" content=\"\">\n	<meta name=\"author\" content=\"TupetsuCraft\">\n	<title>TupetsuCraft VIP</title>\n	<link rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"css/tc.css\" />\n	<script type=\"text/javascript\" src=\"js/tc.js\"></script>\n\n	<!-- <link rel=\"icon\" type=\"image/x-icon\" href=\"css/favicon.ico\"> -->\n</head>\n<body>\n	<div id=\"container\">\n		<div id=\"header\">\n			<img src=\"images/tc.png\" alt=\"TupetsuCraft\" />\n		</div>\n\n		<!-- <div id=\"contentmain\"> -->\n		<div id=\"info\">\n			<h1>TupetsuCraft VIP</h1>\n			<p>TupetsuCraftiin on saatavilla kahta eri VIP-tyyppiä. Maksun suoritetaan turvallisena PayPal-\n			tai PaySafeCard-maksuna. Diamond VIPin voi ostaa vain PayPal-maksulla.</p>\n			<p> Huomaa, että  ostaessasi VIPin hyväksyt sivun lopussa olevat <a href=\"#saannot\">säännöt</a>.</p>\n		</div>\n		<div id=\"content2\">\n			<div id=\"content1\">\n				<div id=\"contentleft\">\n					<h3>Diamond-VIP:</h3>\n					<div class=\"ostoohje\">Hinta: 7eur/90pv (noin 3 kuukautta)</div>\n					<div class=\"greybox\">\n						<div class=\"maksutapa\">PayPal</div>\n						<div id=\"formleft\" class=\"form\">\n							<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n								<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n								<input type=\"hidden\" name=\"hosted_button_id\" value=\"JT3Y5Y9R5B5J6\">\n								<table>\n								<tr><td><input type=\"hidden\" name=\"on0\" value=\"Pelaajatunnus\"><strong>Pelaajatunnus</strong></td></tr><tr><td><input type=\"text\" name=\"os0\" maxlength=\"200\" required></td></tr>\n								</table>\n								<span>&nbsp;&nbsp;<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\"></span>\n								<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n							</form>\n						</div>\n					</div>\n					<h4>Oikeudet mitä tulee</h4>\n					<ul>\n						<li>Kaikki Kersantin oikeudet</li>\n						<li>god = kukaan ei voi tappaa sinua</li>\n						<li>nick = voi laittaa nimen ja siihen eri värejä</li>\n						<li>fly = lentäminen</li>\n						<li>feed = ruokapalkki menee täyteen</li>\n						<li>tp = voi teleportata toisen pelaajan luo ilman että tarvii acceptaa</li>\n						<li>repair = voit korjata kamojasi</li>\n						<li>kit diamond = tavarapaketti jossa on HYVIN lumotut timantti kamat. Komennon voi tehdä vain yhden kerran 90 päivässä</li>\n					</ul>\n					<h4>Kamat mitä tulee kit dimondiin</h4>\n					<ul>\n						<li>2 timanttikypärää, tulisuojaus IV, räjähdyssuojaus II</li>\n						<li>2 timanttipanssaria, tulisuojaus IV, räjähdyssuojaus II</li>\n						<li>2 timanttihousut, tulisuojaus IV, räjähdyssuojaus II</li>\n						<li>2 timantitkengät, tulisuojaus IV, räjähdyssuojaus II</li>\n						<li>2 timanttimiekkaa, sivallus II, terävyys II, raskas II</li>\n						<li>132 obsidiania</li>\n						<li>40 pihviä</li>\n						<li>10 exp pulloa</li>\n					</ul>\n					</div>\n					<div id=\"contentright\">\n						<h3>Emerald-VIP </h3>\n						<div class=\"ostoohje\">Hinta: 10eur/90pv (noin 3 kuukautta)</div>\n						<div class=\"greybox\">\n							<div class=\"maksutapa\">PayPal</div>\n							<div id=\"formright\" class=\"form\">\n								<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n									<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n									<input type=\"hidden\" name=\"hosted_button_id\" value=\"UV4Z4VFVXJYVW\">\n									<table>\n										<tr><td><input type=\"hidden\" name=\"on0\" value=\"Pelaajatunnus\"><strong>Pelaajatunnus</strong></td></tr><tr><td><input type=\"text\" name=\"os0\" maxlength=\"200\" required></td></tr>\n									</table>\n									<span>&nbsp;&nbsp;<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\"></span>\n									<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n								</form>\n							</div>\n						</div>\n						<div class=\"greybox\">\n							<div class=\"maksutapa\">PaySafeCard</div>\n							<ol>\n								<li>Mene R-kioskille ja osta 10eur PaySafeCard.</li>\n								<li>Lisää Skypessä kaveriksi <strong>tbninja</strong> ja kerro hänelle PaySafeCard-koodit ja pelaajatunnuksesi.</li>\n								<li>Tupetsu tarkistaa koodit ja aktivoi sitten Emerald-VIPin käyttöön.</li>\n							</ol>\n						</div>\n						<h4>Oikeudet mitä tulee</h4>\n						<ul>\n							<li>Kaikki Kersantin oikeudet</li>\n							<li>god = kukaan ei voi tappaa sinua</li>\n							<li>nick = voi laittaa nimen ja siihen eri värejä</li>\n							<li>fly = lentäminen</li>\n							<li>feed = ruokapalkki menee täyteen</li>\n							<li>tp = voi teleportata toisen pelaajan luo ilman että tarvii acceptaa</li>\n							<li>repair = voit korjata kamojasi</li>\n							<li>kit emerald = tavarapaketti jossa on HYVIN lumotut timantti kamat. Komennon voi tehdä vain yhden kerran 90 päivässä</li>\n							<li>tphere = voi teleportata toisen pelajan ittensä luo ilman acceptaamista</li>\n							<li>workbench = pystyy cratftaan ilman craftintapplea</li>\n							<li>near = näkee ketkä pelaajat on pelaajan lähelle </li>\n							<li>clearinventory = tyhjentää reppusi </li>\n						</ul>\n						<h4>Kamat mitä tulee kit emeraldiin</h4>\n						<ul>\n							<li>3 timanttikypärää, tulisuojaus IV, räjähdyssuojaus III</li>\n							<li>3 timanttipanssaria, tulisuojaus IV, räjähdyssuojaus III</li>\n							<li>3 timanttihousut, tulisuojaus IV, räjähdyssuojaus III</li>\n							<li>3 timantitkengät, tulisuojaus IV, räjähdyssuojaus III</li>\n							<li>3 timanttimiekkaa, sivallus II, terävyys II, raskas II</li>\n							<li>264 obsidiania</li>\n							<li>132 hehkukiveä</li>\n							<li>25 exp pulloa</li>\n							<li>60 pihviä</li>\n							<li>8 timanttia</li>\n						</ul>\n					</div>\n				</div>\n			</div>\n			<div id=\"saannot\">\n				<h3>Säännöt</h3>\n				<p>VIPpejä koskee samat TupestuCrafin säännöt kuin muitakin pelaajia. Sen lisäksi Vippejä koskee seuraavat säännöt:<p>\n					<ul>\n						<li>Ei saa mennä PvP:hen god päällä</li>\n						<li>Ei saa laittaa kesken taistelun god'ia päälle</li>\n						<li>Ei saa tp toisen pelaajan luo ja tappaa!</li>\n						<li>Ei saa tp toista pelaajaa ittensä luo ilman lupaa!</li>\n						<li>Ei saa jakaa vippi kamaa muille pelaajille!</li>\n						<li>Ei saa lentää PvP:ssä</li>\n						<li>Ei saa korjata muiden pelaajien kamoja!</li>\n						<li>Ei saa laittaa obisiania ympäriinsä!</li>\n					</ul>\n					<p>Jos Vippi rikkoo annettuja sääntöjä niin vippi-rankki voidaan ottaan pois ja rahoja ei palauteta! Pidätämme oikeuden muuttaa VIP-kittien ja -sääntöjen sisältöä ilman erillistä ilmoitusta.</p>\n				</div>\n				<div id=\"footer\">\n					<hr />\n					Copyright © 2013 TupetsuCraft\n				</div>\n			</div>\n</body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 7118,
+			"file_write_time": 1367259394000000,
+			"settings":
+			{
+				"buffer_size": 6864,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 93.0,
+		"height": 71.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"git con",
+				"Git: Custom Command"
+			],
 			[
 				"inden",
 				"Indentation: Reindent Lines"
@@ -59,10 +82,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"package",
-				"Package Control: Install Package"
-			],
-			[
 				"set syn powe",
 				"Set Syntax: Powershell v2"
 			],
@@ -85,10 +104,6 @@
 			[
 				"user",
 				"Preferences: Settings - User"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"gist",
@@ -220,6 +235,12 @@
 	},
 	"file_history":
 	[
+		"/Users/pasibergman/Documents/NetProjects/TC-VIP/css/tc.css",
+		"/Users/pasibergman/Documents/NetProjects/TC-VIP/index.html",
+		"/Users/pasibergman/Documents/NetProjects/TC-VIP/README.md",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1365450799/kapsi/home/users/pbe/sites/pbe.kapsi.fi/www/css/tc.css",
 		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1365450766/kapsi/home/users/pbe/sites/pbe.kapsi.fi/www/index.html",
 		"/var/folders/4k/qc6wrfcj4yzb9btwk19kwrj00000gn/T/sublime-sftp-browse-1365457222/kapsi/home/users/pbe/sites/pbe.kapsi.fi/www/emeraldpurchased.html",
@@ -229,8 +250,6 @@
 		"/Users/pasibergman/Dropbox/Applications/SublimeText2Settings/Packages/User/sftp_servers/kapsi",
 		"/Users/pasibergman/Downloads/angularArticle/index.html",
 		"/Users/pasibergman/Downloads/angularArticle/main.js",
-		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/pasibergman/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/pasibergman/Downloads/angularArticle/angular.js",
 		"/Volumes/Git 1.8.1.2 Snow Leopard Intel Universal/setup git PATH for non-terminal programs.sh",
@@ -490,8 +509,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 6864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
